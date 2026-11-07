@@ -47,10 +47,6 @@ Abra o arquivo .ipynb no Jupyter Notebook ou Google Colab.
 Execute sequencialmente as células do Bloco 1 ao Bloco 7.
 A base de dados SQLite local telemetria_producao.db e o modelo serializado modelo_ia_producao.pkl serão gerados automaticamente no seu diretório.
 
-👥 Autores
-Aluno: TA
-Este projeto foi desenvolvido para fins estritamente acadêmicos. ```
-
 ### Instalação de Dependências
 Se for rodar localmente, instale as bibliotecas necessárias:
 ```bash
